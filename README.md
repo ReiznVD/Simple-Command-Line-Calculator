@@ -270,4 +270,10 @@ time.sleep(1)
 Os library facilitate the cleaning of the command prompt by simply using the words "cls" for windows or "clear" for macintosh or linux. Its work by facilitating python to interact directly with the operating system. While the sys library facilitate the interaction with the python interpreter itself like exiting from a program as in the code above. On the other hand, time library function to give access to system time which allow a pause in the loop before it starts again. all of this optional option was simply to enhanced the user-friendliness of the program.
 
 
+## License
+This project is licensed under the MIT License - see the [View the License](https://github.com/ReiznVD/Simple-Command-Line-Calculator/blob/5deefec74f6270c1a10e69518a0f38e68c1d5fed/LICENSE) file for details
+
+## Author
+Created by [ReizVD](https://github.com/ReiznVD)
+
 </p>
